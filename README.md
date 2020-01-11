@@ -7,8 +7,6 @@ In the next couple of series we will be developing our own Angular like library 
 
 Everyone is welcome to participate by asking questions inside the chat section! 
 
-Source code: https://github.com/commitjs/commit-1
-
 Speaker: Iliya Idakiev
 Panellists: Aleksander Kostov, Hristyan Hristov.
 
